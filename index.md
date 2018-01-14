@@ -1,5 +1,13 @@
 ## hello! 我的成长之路
 
+1.第一个任务开始准备雅思考试
+  
+   1. 考试时间：2018年5月
+ 
+   2. 目标分数：7.0分
+  
+   3. 下次更新：考试完成之后。
+
 You can use the [editor on GitHub](https://github.com/List-Img/List-Img.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
